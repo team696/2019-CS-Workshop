@@ -1,4 +1,4 @@
 lion
 tiger
 bear
-dorothy
+dorothy hates animals
